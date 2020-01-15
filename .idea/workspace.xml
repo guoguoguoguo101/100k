@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387a3689-c5c4-4a4a-955d-7bec0fcae159" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100k.iml" beforeDir="false" afterPath="$PROJECT_DIR$/100k.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/100k/helloworld/hello1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloworld/hello1.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -205,8 +201,16 @@
       <workItem from="1578121281070" duration="43679000" />
       <workItem from="1578618929243" duration="274000" />
       <workItem from="1578619347861" duration="266000" />
-      <workItem from="1578620266003" duration="22550000" />
+      <workItem from="1578620266003" duration="24695000" />
     </task>
+    <task id="LOCAL-00001" summary="小锅要回家过年啦">
+      <created>1579050098697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579050098697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,5 +228,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="小锅要回家过年啦" />
+    <option name="LAST_COMMIT_MESSAGE" value="小锅要回家过年啦" />
   </component>
 </project>
