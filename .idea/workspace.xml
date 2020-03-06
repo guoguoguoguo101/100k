@@ -2,7 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387a3689-c5c4-4a4a-955d-7bec0fcae159" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/helloworld/sdsa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_java7_2_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_core_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_kahadb_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_protobuf_activemq_protobuf_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_paho_org_eclipse_paho_client_mqttv3_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtdispatch_hawtdispatch_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtdispatch_hawtdispatch_transport_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_mqtt_client_mqtt_client_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasypt_jasypt_1_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_jobs_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_0_7_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100k.iml" beforeDir="false" afterPath="$PROJECT_DIR$/100k.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/ProxyPatterns/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/ProxyPatterns/ProxyImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/ProxyPatterns/ProxyPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/ProxyPatterns/RealImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadBase/ConditionTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadBase/ConditionTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadBase/ThreadLocalTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadBase/ThreadLocalTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TimerandSchedule/HelloJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TimerandSchedule/HelloQuartz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TimerandSchedule/ScheduleExecutorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TimerandSchedule/TimerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/helloworld/helllo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helloworld/helllo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/helloworld/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helloworld/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/HikariCPTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignPatterns/ProxyPatterns/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignPatterns/ProxyPatterns/ProxyImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignPatterns/ProxyPatterns/ProxyPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DesignPatterns/ProxyPatterns/RealImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadBase/ConditionTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadBase/ConditionTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadBase/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadBase/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadBase/QueueTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadBase/QueueTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadBase/ThreadLocalTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadBase/ThreadLocalTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimerandSchedule/HelloJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimerandSchedule/HelloQuartz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimerandSchedule/ScheduleExecutorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimerandSchedule/TimerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helloworld/helllo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/helloworld/helllo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helloworld/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/helloworld/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc/HikariCPTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,10 +76,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -23,10 +104,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="spring plugins" />
+      </list>
     </option>
   </component>
   <component name="ProjectId" id="1UY2lKwBxLScOKBkncOETRQt4mP" />
@@ -36,16 +128,27 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mqttstu/therometer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/AOP" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.2665441" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="ThreadInterview" />
       <recent name="DesignPatterns.FactoryPatterns" />
+    </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/halo-dev/halo-admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\100k\src\main\java\AOP" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\100k\src\main\resources" />
+      <recent name="D:\IdeaProjects\100k\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,20 +163,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.zhege">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex.GreedyMatching" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AOP.Person" />
       <module name="100k" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Regex.*" />
+          <option name="PATTERN" value="AOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,13 +184,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex.SplitTask" />
+    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AOP.Test2" />
       <module name="100k" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Regex.*" />
+          <option name="PATTERN" value="AOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,27 +204,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex.find" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date.demo1" />
       <module name="100k" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Regex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex.regex" />
-      <module name="100k" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Regex.*" />
+          <option name="PATTERN" value="date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,7 +219,21 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloworld.test" />
+      <option name="MAIN_CLASS_NAME" value="Spring.test" />
+      <module name="100k" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zhege" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld.zhege" />
       <module name="100k" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -170,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zhege" />
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.regex" />
-        <item itemvalue="Application.find" />
-        <item itemvalue="Application.SplitTask" />
-        <item itemvalue="Application.GreedyMatching" />
+        <item itemvalue="Application.Test2 (1)" />
+        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +305,13 @@
       <workItem from="1578618929243" duration="274000" />
       <workItem from="1578619347861" duration="266000" />
       <workItem from="1578620266003" duration="24695000" />
+      <workItem from="1581901738275" duration="39182000" />
+      <workItem from="1582256937611" duration="1152000" />
+      <workItem from="1582268654160" duration="364000" />
+      <workItem from="1582273745477" duration="1351000" />
+      <workItem from="1583111016829" duration="28009000" />
+      <workItem from="1583369572400" duration="18314000" />
+      <workItem from="1583460351210" duration="1948000" />
     </task>
     <task id="LOCAL-00001" summary="小锅要回家过年啦">
       <created>1579050098697</created>

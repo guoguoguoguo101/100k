@@ -16,16 +16,15 @@ public class helllo {
 //        Mac mac = Mac.getInstance(secretKey.getAlgorithm());
 //        mac.init(secretKey);
 //        return byte2hex(mac.doFinal(text));
-//    }
+//    }]
+
+    void  helloworld(){
+        System.out.println("helloworld");
+    }
 
     public static void main(String[] args) throws Exception {
-
-        Random random = new Random();
-        while (true){
-           int x = (int) (100*Math.random());
-            System.out.println(x);
-            Thread.sleep(500);
-        }
+            helllo helllo = new helllo();
+            helllo.helloworld();
 
     }
 }
